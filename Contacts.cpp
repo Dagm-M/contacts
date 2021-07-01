@@ -12,9 +12,9 @@ char menu()
 
 	cout << endl << string(25, '=') << endl;
 
-	cout << endl << "WELCOME TO YOU'R CONTACTS" << endl;
+	cout << "WELCOME TO YOU'R CONTACTS" << endl;
 
-	cout << string(25, '=') << endl;
+	cout << string(25, '=') << endl << endl;
 
 	cout << "Press 'A' to View all contacts" << endl;
 

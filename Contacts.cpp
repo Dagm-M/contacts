@@ -241,7 +241,7 @@ char search()
 	}
 
 	if (notfoud)
-		cout << "the name could not be found check the spelling and capitalization" << endl;
+		cout << "The name could not be found check the spelling and capitalization" << endl;
 
 	 cout << "Press 'R' to go back to the main menu: ";
 	char back;

@@ -10,9 +10,9 @@ char menu()
 {
 	char choise; 
 
-	cout << string(25, '=') << endl << endl;
+	cout << endl << string(25, '=') << endl;
 
-	cout << endl << "WELCOME TO YOU'R CONTACTS" << endl << endl;
+	cout << endl << "WELCOME TO YOU'R CONTACTS" << endl;
 
 	cout << string(25, '=') << endl;
 
